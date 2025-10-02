@@ -1,6 +1,6 @@
 # jpa01-samc005
 
-Deployed at: https://jpa01-samc005.dokku-09.cs.ucsb.edu/
+Deployed at: https://jpa01-samc005.dokku-09.cs.ucsb.edu
 
 # About this repo
 
